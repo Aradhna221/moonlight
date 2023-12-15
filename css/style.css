@@ -1,0 +1,134 @@
+#count{
+    background-image: url(../image/Untitled.png);
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+}
+#car{
+    border-radius: 20px;
+    padding: 10px;
+}
+#btn{
+    height: 40px;
+    width: 100px;
+    border-radius: 20px ;
+
+}
+#btn:hover{
+    background-color: rgb(4, 235, 252);
+    border-radius: 20px ;
+}
+#khan{
+    background-image: url(../image/back.jpg);
+    height: fit-content;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#btn1{
+    height: 40px;
+    width: 100px;
+    border-radius: 20px ;
+    border-color: red;
+
+}
+#btn1:hover{
+    background-color: rgb(4, 235, 252);
+    border-radius: 20px ;
+}
+#about{
+    height: 260px;
+    width: 250px;
+    border-radius: 20px;
+}
+#about1{
+    height: 220px;
+    width: 535px;
+    border-radius: 20px;
+}
+#font{
+    text-decoration: none;
+}
+#footer{
+    height: 400px;
+    background-color: rgb(17, 142, 226);
+}
+.logo{
+    background-image: url(../image/logo-removebg-preview\ \(1\).png);
+    height: 110px;
+    width: 150px;
+    background-repeat: no-repeat;
+}
+#icon1:hover{
+    color: rgb(124, 157, 206);
+}
+#icon2:hover{
+    color: blue;
+}
+#icon3:hover{
+    color: rgb(201, 25, 78);
+}
+#icon4:hover{
+    color: rgb(247, 247, 248);
+}
+body{
+    background-image: url(./images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#nav{
+    background-color: rgb(17, 142, 226);
+    height: 60px;
+    width: 100%;
+}
+
+.btn{
+    border-radius: 30px;
+    border: solid black 2px ;
+}
+/* .btn :hover{
+ border: solid rgb(68, 3, 54) 2px ; */
+
+.logo4{
+    height: 60px;
+    width: 10%;
+    border-radius: 30px;
+    float: left;
+    background-size: 100% 100%;
+}
+.imglogo{
+    height: 60px;
+    width: 70%;
+    border-radius: 30%;
+    margin-left: 60px;
+}
+.bimage{
+    height: 100%;
+    width: 100%;
+    justify-content: space-around;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#card{
+    /* border: solid black 2px; */
+    /* border-radius: 20px; */
+    height: 400px;
+  
+    
+  
+   
+}
+#img1{
+    border: 5px solid black;
+    border-radius: 20px;
+    transition: 0.1;
+
+}
+#img1:hover{
+    transform: scale(0.9);
+}
